@@ -37,6 +37,20 @@ Tools & IDEs     : Git & GitHub, VS Code, Jupyter Notebook
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aachaldange&theme=radical&row=1&column=6" />
+</p>
+
+---
+
+### 📈 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aachaldange&label=Profile%20views&color=0e75b6&style=flat" alt="Aachaldange" />
+</p>
+
+---
+
 ### 👩‍💼 What I Do
 
 - 🎓 Final-year Computer Science Student
@@ -76,4 +90,12 @@ Tools & IDEs     : Git & GitHub, VS Code, Jupyter Notebook
 
 <p align="center">
   <b><i>Always Learning & Building</i></b>
+</p>
+
+---
+
+### 🎨 Fancy Extras
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
 </p>
