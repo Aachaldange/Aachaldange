@@ -1,50 +1,62 @@
-<h1 align="center">Hi there! I'm Aachal Dange <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm <span style="color:#f9d423">Aachal Dange</span> 👋</h1>
+<p align="center"><b>Final-Year CS Student | AI/ML & Data Science Enthusiast</b></p>
+<p align="center">🚀 Passionate about turning data into powerful, real-world insights using Python, Java, SQL, ML, and Analytics.</p>
+
+---
+
+<h3 align="center">📍 Pune, Maharashtra | 👩‍💻 Exploring AI, Data Science, and Full-Stack Development</h3>
+
+---
+
+### 🚀 Skills & Tech Stack
+
 <p align="center">
-  <b>👩‍💻 Final-year CS Student | Aspiring AI/ML Engineer</b><br>
-  Turning data into impact — skilled in <b>Python</b>, <b>Java</b>, <b>SQL</b>, <b>Machine Learning</b>, and <b>Data Analytics</b>.
+  <img src="https://skillicons.dev/icons?i=python,java,sql,tensorflow,pandas,numpy,scikit-learn,git,github,vscode,figma,linux,html,css,js" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Building+Smart+Solutions;Exploring+Big+Data+and+ML+Models"/>
-</div>
-
----
-
-### 🚀 Tech Stack
-
-```yaml
-Languages    : Python, Java, SQL
-AI/ML Tools  : Scikit-learn, Pandas, NumPy, TensorFlow (basics)
-Analytics    : Power BI, Excel, Tableau
-Databases    : MySQL
-Other Tools  : Git & GitHub, Jupyter, VS Code
-```
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aachaldange&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aachaldange&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aachaldange&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aachaldange&theme=radical&hide_border=true&border_radius=10" width="48%" />
 </p>
-
----
-
-### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aachaldange26/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Aachaldange"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/itzme_.26/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aachaldange&layout=compact&theme=radical&hide_border=true&border_radius=10" width="50%" />
 </p>
 
 ---
 
-### 💡 Fun Fact
-> 🧠 I’m passionate about building AI-powered solutions, automating boring stuff, and making data-driven decisions more fun. I believe in the power of tech to change lives.
+### 💼 What I Do
 
-```bash
-💬 Let's connect, collaborate, and create something amazing! 🚀
+- 🎓 Final-year student in Computer Science
+- 🤖 Currently exploring **Machine Learning**, **AI Models**, and **Big Data Analytics**
+- 💡 Love building smart, automated tools to solve real-world problems
+- 📊 Skilled in visualizing data using **Tableau**, **Power BI**, and **Excel**
+- 🌱 Always learning something new in **Tech**, **AI**, and **Full-Stack Development**
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aachaldange26/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Aachaldange"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/itzme_.26/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### 💬 Fun Fact
+
+> 🧠 I enjoy simplifying complex problems with clean logic & elegant code. Let’s build something impactful together!
+
+---
+
+### 🔗 Bonus Tools
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=AI+%7C+ML+%7C+Data+Science+%7C+Python+%7C+SQL+%7C+Java;Turning+data+into+insights;Always+Learning+%26+Building" />
+</p>
