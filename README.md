@@ -44,7 +44,7 @@ Tools & IDEs     : Git & GitHub, VS Code, Jupyter Notebook
 ### 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aachaldange&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="47%" />
+  <img src="https://github-readme-status.vercel.app/api?username=Aachaldange&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aachaldange&theme=radical&hide_border=true&border_radius=10" width="47%" />
 </p>
 
@@ -104,8 +104,3 @@ Tools & IDEs     : Git & GitHub, VS Code, Jupyter Notebook
 
 ---
 
-### 🎨 Fancy Extras
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
-</p>
