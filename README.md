@@ -38,7 +38,7 @@ aachaldange/README.md
 `MySQL`, `MongoDB` (basic)
 
 ### Tools & Platforms:
-`GitHub`, `Jupyter Notebook`, `VS Code`, `Figma`, `Streamlit`
+`GitHub`, `Jupyter Notebook`, `VS Code`, `Streamlit`,`powerBI`,`Tableau`
 
 ---
 
@@ -64,17 +64,18 @@ Built a fully responsive departmental website to showcase academic info, faculty
 - Generative AI – Microsoft
 - Application Development with AI – National Level Online Workshop
 - Java Programming – Udemy
+- Software Developer - Intership 
 
 ---
 
 ## 📫 Contact Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aachaldange26/)
 - 📧 dangeachal46@gmail.com
-- 💻 [GitHub](https://github.com/your-github-username)
+- 💻 [GitHub](https://github.com/Aachaldange/)
 
 ---
 
 ## 🎉 Fun Fact
 
-> I believe the real magic happens when we step outside our comfort zone and start building tech that makes a difference. 🌍
+> I'm not just passionate about coding—I treat every project as a puzzle to solve creatively. I believe in building solutions that are both **smart and impactful**! 💡💻✨
